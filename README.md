@@ -16,10 +16,21 @@ It lets you generate secure passwords with customizable options such as **length
 
 ---
 
-## 🖼️ Demo Screenshot
-> _(Add your screenshot here after running the app)_  
-Example:  
-![Password Generator Screenshot](screenshot.png)
+## 🖼️ Demo Screenshots
+
+Here are some previews of the password generator in action:
+
+<p align="center">
+  <img src="./ScreenShot/S1.png" alt="Password Generator Screenshot 1" width="500"/>
+</p>
+
+<p align="center">
+  <img src="./ScreenShot/S2.png" alt="Password Generator Screenshot 2" width="500"/>
+</p>
+
+<p align="center">
+  <img src="./ScreenShot/S3.png" alt="Password Generator Screenshot 3" width="500"/>
+</p>
 
 ---
 
@@ -28,3 +39,24 @@ Example:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/react-password-generator.git
+   ```
+
+2. Navigate into the project folder:
+   ```bash
+   cd react-password-generator
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+5. Open in browser:
+   ```bash
+   http://localhost:5173
+   ```
