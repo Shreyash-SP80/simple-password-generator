@@ -16,7 +16,7 @@ It lets you generate secure passwords with customizable options such as **length
 
 ---
 
-## 🖼️ Demo Screenshots
+## Demo Screenshots
 
 Here are some previews of the password generator in action:
 
@@ -34,7 +34,7 @@ Here are some previews of the password generator in action:
 
 ---
 
-## ⚡ Installation & Setup
+## Installation & Setup
 
 1. Clone the repository:
    ```bash
