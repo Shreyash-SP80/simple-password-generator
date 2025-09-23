@@ -5,7 +5,7 @@ It lets you generate secure passwords with customizable options such as **length
 
 ---
 
-## 🚀 Features
+## Features
 - Generate random and secure passwords
 - Adjust password length (6–30 characters)
 - Include/exclude numbers
