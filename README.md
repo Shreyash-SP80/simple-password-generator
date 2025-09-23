@@ -60,3 +60,18 @@ Here are some previews of the password generator in action:
    ```bash
    http://localhost:5173
    ```
+
+## 📂 Project Structure
+```bash
+  react-password-generator/
+  │── src/
+  │   ├── App.jsx
+  │   ├── App.css
+  │   ├── main.jsx
+  │── public/
+  │── package.json
+  │── README.md
+```
+
+## 🛠️ Built With
+     React Vite
