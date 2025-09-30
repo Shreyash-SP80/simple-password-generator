@@ -13,7 +13,7 @@ It lets you generate secure passwords with customizable options such as **length
 - Responsive and minimal design
 - Built with **React Hooks** (`useState`, `useEffect`, `useCallback`, `useRef`)
  
----
+--- 
 
 ## Demo Screenshots
 
