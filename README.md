@@ -4,7 +4,6 @@ A simple and modern **React Password Generator**.
 It lets you generate secure passwords with customizable options such as **length, numbers, and symbols**. Includes a one-click copy feature and a clean UI.  
 
 ---
-
 ## Features
 - Generate random and secure passwords
 - Adjust password length (6–30 characters)
