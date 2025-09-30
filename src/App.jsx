@@ -9,7 +9,7 @@ function App() {
 
   const passwordRef = useRef(null);
 
-  const generatePassword = useCallback(() => {
+  const generatePassword = useCallback(() => { 
     let charset = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
     if (includeNumbers) charset += "0123456789";
     if (includeSymbols) charset += "!@#$%^&*()_-+=<>?/{}[]~";
