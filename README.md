@@ -19,7 +19,7 @@ It lets you generate secure passwords with customizable options such as **length
 
 Here are some previews of the password generator in action:
 
-<p align="center">
+<p align="center"> 
   <img src="./ScreenShot/S1.png" alt="Password Generator Screenshot 1" width="500"/>
 </p>
 
